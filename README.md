@@ -6,7 +6,7 @@
 Mobile app for banking problems that oftenly wasting much of your times
 
 <p align="col">
-![Screenshoot](/Image/picture.png)
+![Screenshoot](/Images/picture.png)
 </p>
 
 
