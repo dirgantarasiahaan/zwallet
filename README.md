@@ -55,6 +55,23 @@ pod 'Moya'
 4. Check simulator and running program
 
 
+## Usage
+##### View
+Sebagai penerima action dari user untuk diteruskan ke presenter dan menampilkan apapun yang presenter hasilkan
+
+##### Interactor
+Backbone dari applikasi yang berisi business logic  
+
+##### Presenter
+sebagai Get data dari interactor atau pemanggilan router navigation untuk ditampilkan/diteruskan ke view 
+
+##### Entity
+Sebagai model yang biasanya digunakan oleh interactor
+
+##### Router
+sebagai navigation logic/wireframe untuk menuju screen yang diinginkan
+
+
 ## Tech in use
 #### 1. VIPER
 as design pattern consist of View, Interactor, Presenter, Entity, Router.
